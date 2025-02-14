@@ -6,7 +6,7 @@ Certificate DApp is a decentralized application built on Ethereum blockchain to 
 
 The DApp is designed to allow educational institutions or other organizations to issue tamper-proof certificates on the blockchain. Users can retrieve certificates by providing the certificate ID, ensuring trust, transparency, and decentralization.
 
-## 🛠️ Built With
+## 🛠️ Built With 
 
    <img src="https://skillicons.dev/icons?i=vscode,react,tailwind,nodejs,solidity,hardhat"/>
 
